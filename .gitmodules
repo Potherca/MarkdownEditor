@@ -1,0 +1,6 @@
+[submodule "MarkdownEditor-Persistence"]
+	path = MarkdownEditor-Persistence
+	url = git://github.com/potherca/MarkdownEditor-Persistence.git
+[submodule "MarkdownEditor-FrontEnd"]
+	path = MarkdownEditor-FrontEnd
+	url = git://github.com/potherca/MarkdownEditor-FrontEnd.git
