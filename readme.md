@@ -11,4 +11,8 @@ bork.
 Please take a look at the credentials file to see how you can add user login 
 credentials.
 
+Also note that the entry point is `MarkdownEditor-Persistence/www/`.
+
+This is ugly you do not run the tool on its own (sub)domain.
+
 ##EOF
